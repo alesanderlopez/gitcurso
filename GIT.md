@@ -91,7 +91,7 @@ Proyecto escrito en Java por los alumnos del Roque Amagro de Desarrollo de aplic
 - acceso remoto
 ```
 
-**3. Nuestro primer commit.
+**3. Nuestro primer commit.**
 
 Una vez estamos dentro de la carpeta de nuestro proyecto podemos listar los ficheros que no han sido commiteados con el siguiente commando.
 ```bash
@@ -276,13 +276,13 @@ NuevaClasePrueba.java
 (Vemos como ahora esta la nueva clase)
 ```
 
-**Fucionando cambios**
+**7. Fucionando cambios**
 
 En ocasiones hay en los dos ordenadores cambios imaginamos que hemos cambios y en la rama remota hay cambios que no tenemos todavía.
 
 Pues cuando hagamos push puede fallarnos, por lo que siempre antes de hacer un push debemos hacer un pull para tener siempre los ultimos cambios antes de subir los nuestros.
 
-**Las ramas**
+**8. Las ramas**
 
 Las ramas en git se utilizan para poder dibir el desarrollo de los proyectos, por ejemplo en la rama master (origin master) va el flujo de producción y lo adecuado es programar en la rama dev y cuando nuestros cambios sean estables fucionarlos en la rama master.
 
@@ -301,7 +301,7 @@ El checkout se utiliza para saltar entre las distintas ramas y el merge se utili
 git checkout -b nuevarama
 ```
 
-**Volver al ultimo commit**
+**9. Volver al ultimo commit**
 
 Si por accidente hemos hecho alguna cagada despues de nuestro ultimo commit o pull y queremos restablecer todo solo basta con hacer un:
 ```bash
