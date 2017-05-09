@@ -5,10 +5,6 @@
  */
 package aplicacionactividades;
 
-/**
- *
- * @author alesanderlopezgil
- */
 public class AplicacionActividades {
 
     /**
